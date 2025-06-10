@@ -1,0 +1,13 @@
+aws-social-media-sentiment/
+│
+├── data/
+│   └── sample_data.json
+│
+├── scripts/
+│   └── glue_etl_job.py
+│
+├── architecture/
+│   ├── pipeline_diagram.png
+│   └── aws_services_diagram.png
+│
+└── README.md
