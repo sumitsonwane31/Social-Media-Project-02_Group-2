@@ -10,5 +10,4 @@ This project performs sentiment analysis on raw social media JSON data using AWS
    - Applies sentiment scoring using a basic dictionary.
    - Outputs cleaned, scored JSON to another S3 bucket.
 
-## 📁 Directory Structure
 
