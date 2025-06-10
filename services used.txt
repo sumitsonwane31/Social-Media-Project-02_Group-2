@@ -1,0 +1,19 @@
+
+## ✅ Services Used
+
+- **Amazon S3**: Raw and processed data storage
+- **AWS Glue Crawler**: Schema detection
+- **AWS Glue ETL Job**: Transformation logic
+- **IAM**: Role for Glue to access S3
+
+## 📊 Output
+
+```json
+{
+  "post_id": "001",
+  "user": "bookworm88",
+  "text": "Amazing workout session today! Feeling energized. 💪🏃‍♂️",
+  "timestamp": "2025-06-08T09:00:00Z",
+  "normalized_text": "amazing workout session today feeling energized",
+  "sentiment_score": 0.45
+}
