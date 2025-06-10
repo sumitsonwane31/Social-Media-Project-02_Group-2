@@ -1,0 +1,20 @@
+[
+  {
+    "post_id": "001",
+    "user": "bookworm88",
+    "text": "Amazing workout session today! Feeling energized. 💪🏃‍♂️",
+    "timestamp": "2025-06-08T09:00:00Z"
+  },
+  {
+    "post_id": "002",
+    "user": "tech_guru",
+    "text": "This new app update is buggy 😕 #disappointed",
+    "timestamp": "2025-06-08T10:15:00Z"
+  },
+  {
+    "post_id": "003",
+    "user": "foodiequeen",
+    "text": "Loved the sushi at Tokyo Dine 🍣😍",
+    "timestamp": "2025-06-08T11:00:00Z"
+  }
+]
