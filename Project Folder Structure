@@ -1,7 +1,7 @@
 aws-social-media-sentiment/
 │
 ├── data/
-│   └── sample_data.json
+│   └── social_posts (1).json
 │
 ├── scripts/
 │   └── glue_etl_job.py
